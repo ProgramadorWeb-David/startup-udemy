@@ -1,0 +1,27 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body {
+    font-family: "Open Sans", Arial, Sans-serif;
+    font-size: 16px;
+}
+
+
+/* importando los estilos del header */
+@import "header";
+
+
+/* importando los estilos del menu */
+@import "main";
+
+
+/* importando los estilos del footer */
+@import "footer";
+
+
+/* importando los estilos del responsive */
+@import "responsive";
